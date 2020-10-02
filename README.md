@@ -38,7 +38,7 @@ Log into Mattermost with an admin account, go to **System Console > Plugins > Wh
 
 This plugin has been a personal project to get familiar with Go. It has been put together with snippets from the [Mattermost plugin starter template](https://github.com/mattermost/mattermost-plugin-starter-template), the [original Mattermost Jitsi Plugin](https://github.com/appmodule/mattermost-plugin-jitsi), the [official Mattermost Jitsi Plugin](https://github.com/mattermost/mattermost-plugin-jitsi), and the [Mattermost Zoom Plugin](https://github.com/mattermost/mattermost-plugin-zoom).
 
-For those of you looking for [Mattermost plugincoding examples](https://developers.mattermost.com/extend/plugins/example-plugins/), this plugin contains both a server and web app portion, and demonstrates the following topics:
+For those of you looking for [Mattermost plugin coding examples](https://developers.mattermost.com/extend/plugins/example-plugins/), this plugin contains both a server and web app portion, and demonstrates the following topics:
 
 * Defining a settings schema, allowing system administrators to configure the plugin via system console UI.
 * Extending existing webapp components to add elements to the UI.
@@ -50,6 +50,6 @@ For those of you looking for [Mattermost plugincoding examples](https://develope
 ### Compiling
 
 1. Set your development environment for [Go](https://golang.org) and [npm](https://www.npmjs.com)
-2. Download the source code
+2. Download the source code:
   `git clone https://github.com/bockbilbo/mattermost-plugin-whiteboard.git`
 3. Run `make` to compile while checking the quality of the code using [go linterns](https://medium.com/wesionary-team/introduction-to-linters-in-go-and-know-about-golangci-lint-6486fb2864b3)
