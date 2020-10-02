@@ -1,6 +1,6 @@
 # Mattermost Whiteboard Plugin
 
-Share virtual whiteboards on [Mattemost](https://mattermost.org/) to collaborate with your team.
+Share virtual whiteboards on [Mattermost](https://mattermost.org/) to collaborate with your team.
 
 ## Supported Whiteboard Tools
 This plugin works with both public and self-hosted instances of the following open-source whiteboard tools:
